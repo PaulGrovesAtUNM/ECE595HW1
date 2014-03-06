@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtle")
+set(turtle_MAINTAINER "paul <paul@todo.todo>")
+set(turtle_DEPRECATED "")
+set(turtle_VERSION "0.0.0")
+set(turtle_BUILD_DEPENDS "roscpp" "std_msgs" "turtlesim")
+set(turtle_RUN_DEPENDS "roscpp" "std_msgs" "turtlesim")
+set(turtle_BUILDTOOL_DEPENDS "catkin")
